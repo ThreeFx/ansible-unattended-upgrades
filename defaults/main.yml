@@ -1,0 +1,5 @@
+---
+unattended_upgrades_reboot: "false"
+unattended_upgrades_reboot_time: "03:00"
+
+unattended_upgrades_blacklist: []
